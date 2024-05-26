@@ -1,0 +1,5 @@
+# Ignore everything in mydir
+marin/*
+
+# But do not ignore specialfile.txt
+!marin/.wezterm.lua
